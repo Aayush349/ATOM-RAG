@@ -1,0 +1,11 @@
+Flask
+flask-cors
+openai==0.28
+python-dotenv
+PyMuPDF
+python-docx
+sentence-transformers
+faiss-cpu
+SpeechRecognition
+pydub
+flask
